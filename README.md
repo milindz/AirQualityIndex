@@ -11,18 +11,14 @@ With the rise of COVID-19 and Air pollution, people are now more concern about t
 
 ## :gear: Project Demo
 - Application is hosted on Heroku. You can see the [demo](https://airqualityindexcheckerr.herokuapp.com/)
-- Detailed walkthrough video for the above project is posted on the Youtube. [Watch Here](https://youtu.be/tqwzk_ST9RU)
 
-## :hourglass_flowing_sand: Dataset
-The raw and cleaned dataset is uploaded in the ``` ./Data/``` folder and you can download the files from below link too.
-- [Raw Data](https://github.com/noor12401/Projects/blob/main/AQI/Data/city_hour.csv)
-- [Cleaned Data](https://github.com/noor12401/Projects/blob/main/AQI/Data/final_data.csv)
+
 
 ## :cloud: Machine Learning Models
 Below are the machine learning models used for this project
-- [Linear Regression](https://github.com/noor12401/Projects/blob/main/AQI/2.%20Implementing%20Linear%20and%20Lasso%20Regression.ipynb)
-- [Lasso Regression](https://github.com/noor12401/Projects/blob/main/AQI/2.%20Implementing%20Linear%20and%20Lasso%20Regression.ipynb)
-- [Decision Tree Regressor](https://github.com/noor12401/Projects/blob/main/AQI/3.%20Implementing%20Decision%20Tree.ipynb)
-- [XGBoost Algorithm](https://github.com/noor12401/Projects/blob/main/AQI/4.%20Implementing%20XGBoost%20for%20Regression.ipynb)
-- [Random Forest Classifier](https://github.com/noor12401/Projects/blob/main/AQI/6.%20Implementing%20Random%20Forest%20Classifier%20(Part%202).ipynb)
-- [Artificial Neural Network](https://github.com/noor12401/Projects/blob/main/AQI/7.%20Implementing%20ANN.ipynb)
+-Linear Regression
+-Lasso Regression
+-Decision Tree Regressor
+-XGBoost Algorithm
+-Random Forest Classifier
+-Artificial Neural Network
